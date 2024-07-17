@@ -1,0 +1,45 @@
+.shopping-card {
+    display: grid;
+    grid-template-columns: 30% 70%;
+    align-items: center;
+    border: 1px solid #e0e0e0;
+    border-radius: 4px;
+    overflow: hidden;
+    padding: 5px;
+}
+
+.shopping-card img {
+    height: 200px;
+}
+
+.shopping-card h3, .shopping-card p {
+    margin: 5px 0;
+}
+
+.shopping-card-btn {
+    padding: 8px;
+    border: 1px solid grey;
+    background-color: grey;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.shopping-card-btn:hover {
+    background-color: white;
+    color: green;
+}
+
+.shopping-card-delete {
+    padding: 8px;
+    border: 1px solid red;
+    background-color: red;
+    border-radius: 10px;
+    color: white;
+    text-decoration: none;
+}
+
+.shopping-card-delete:hover {
+    background-color: white;
+    color: red;
+}

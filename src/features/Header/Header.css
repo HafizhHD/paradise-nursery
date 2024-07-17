@@ -1,0 +1,26 @@
+.header {
+    background-color: green;
+    min-height: 5vh;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    justify-content: center;
+    padding: 0 30px;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.header h2 {
+    margin: 20px 0;
+}
+
+.title {
+    text-decoration: none;
+    color: white;
+}
+
+.cart-link {
+    text-align: right;
+    color: white;
+    text-decoration: none;
+}

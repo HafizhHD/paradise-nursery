@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Monstera Deliciosa",
+        "description": "A popular houseplant known for its large, glossy leaves.",
+        "category": ["Indoor Plants", "Best Sellers", "New Arrivals"],
+        "price": 29,
+        "image": "https://images.stockcake.com/public/f/5/0/f50b3f43-ae7e-4931-afdb-8c9e50a55cf5_large/indoor-monstera-plant-stockcake.jpg"
+    },
+    {
+        "name": "Fiddle Leaf Fig",
+        "description": "A trendy plant with large, violin-shaped leaves.",
+        "category": ["Indoor Plants", "Best Sellers", "Outdoor Plants"],
+        "price": 39,
+        "image": "https://images.stockcake.com/public/1/7/b/17b50598-7fcd-41d1-8066-2d7824699292/indoor-fiddle-leaf-figs-stockcake.jpg"
+    },
+    {
+        "name": "Snake Plant",
+        "description": "A low-maintenance plant with tall, upright leaves.",
+        "category": ["Indoor Plants", "New Arrivals", "Outdoor Plants"],
+        "price": 19,
+        "image": "https://images.stockcake.com/public/d/5/0/d5001cc5-8b76-450d-8808-35cdee41a7ed/potted-snake-plant-stockcake.jpg"
+    },
+    {
+        "name": "Pothos",
+        "description": "A trailing plant with heart-shaped leaves, perfect for hanging baskets.",
+        "category": ["Indoor Plants", "Best Sellers", "Outdoor Plants"],
+        "price": 14,
+        "image": "https://images.stockcake.com/public/7/6/9/76973974-80d8-4632-bcf9-789705458f15/nurturing-green-life-stockcake.jpg"
+    },
+    {
+        "name": "ZZ Plant",
+        "description": "A popular indoor plant with glossy, dark green leaves.",
+        "category": ["Indoor Plants", "Best Sellers", "New Arrivals"],
+        "price": 24,
+        "image": "https://images.stockcake.com/public/0/b/2/0b2cfb04-effa-4ebf-83d9-1c6c9e99b1dd/gardening-young-plant-stockcake.jpg"
+    },
+    {
+        "name": "Peace Lily",
+        "description": "A beautiful plant with white flowers and dark green leaves.",
+        "category": ["Indoor Plants", "Best Sellers", "Outdoor Plants"],
+        "price": 17,
+        "image": "https://images.stockcake.com/public/4/b/7/4b7fc071-5fa0-4a7e-a94a-708b2969a4bc/peaceful-window-plant-stockcake.jpg"
+    },
+    {
+        "name": "Lavender",
+        "description": "A fragrant herb with purple flowers, commonly used in aromatherapy.",
+        "category": ["Outdoor Plants", "Best Sellers", "New Arrivals"],
+        "price": 9,
+        "image": "https://images.stockcake.com/public/8/9/6/8967ef1a-e060-4e6b-9e72-3437c6484485/lavender-sunset-hues-stockcake.jpg"
+    },
+    {
+        "name": "Rose",
+        "description": "A classic flower known for its beauty and fragrance.",
+        "category": ["Outdoor Plants", "Indoor Plants", "New Arrivals"],
+        "price": 14,
+        "image": "https://images.stockcake.com/public/a/0/d/a0d09909-8f9b-44fd-ab60-acc42013bec3/dewy-red-rose-stockcake.jpg"
+    },
+    {
+        "name": "Sunflower",
+        "description": "A tall plant with large, yellow flowers that follow the sun.",
+        "category": ["Outdoor Plants", "New Arrivals", "Best Sellers"],
+        "price": 8,
+        "image": "https://images.stockcake.com/public/3/0/2/302c6524-31bd-4756-ae96-dae31036fcb2/sunny-sunflower-bloom-stockcake.jpg"
+    }
+]
